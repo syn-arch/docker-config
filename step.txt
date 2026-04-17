@@ -1,6 +1,6 @@
 # config
-Clone Repository Github
-Cp .env.example .env
+clone Repository Github
+cp .env.example .env
 Add Dockerfile
 Add docker-compose.yml
 Add docker-compose/nginx/company_profile.conf
